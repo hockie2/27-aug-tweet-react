@@ -1,0 +1,29 @@
+body{
+    font-family: arial;
+    box-sizing: border-box;
+}
+
+.card{
+    border-bottom: 1px solid gray;
+    margin: 5px auto;
+    padding:5px;
+    /*border:1px solid red;*/
+}
+
+
+.user_wrapper{
+    width:100%;
+    /*height: 50px;*/
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /*border: 1px solid red;*/
+
+}
+h3{
+    /*border:1px solid blue;*/
+    margin: 0;
+    margin-right: 10px;
+    padding: 0;
+    display: flex;
+}
